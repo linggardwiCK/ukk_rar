@@ -1,0 +1,18 @@
+
+/* Box Model Properties */
+.col-sm-3 .card-p-2 {
+    margin-bottom: 10vh;
+}
+  
+/* Visual Formatting */
+.col-sm-3 .card-p-2 img {
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 3 / 4;
+    border: 1px solid #666666;
+}
+
+/* Flexbox & Grid Properties (jika ada) */
+/* Typography */
+/* Display & Positioning */
+/* Miscellaneous */
